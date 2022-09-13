@@ -10,8 +10,6 @@ Utilizes Spotify API to query a random selection of songs from the user's chosen
 Users have a limited time to guess the name of the song, artist, and album
 Points are awarded differently depending on how many parts are guessed correctly (only song name, song name and artist but not album, etc.)
 
-## Getting Started
-
 ### Dependencies
 
 Currently running in Android Studio on an emulated Google Pixel 4
