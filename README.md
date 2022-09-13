@@ -1,4 +1,4 @@
-# Android Spotify App
+# Android Songguessr Spotify App
 
 A mobile application for Android devices.
 Made to test your familiarity with popular songs from numerous genres
