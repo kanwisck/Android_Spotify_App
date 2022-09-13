@@ -6,7 +6,7 @@ Made to test your familiarity with popular songs from numerous genres
 
 ## Description
 
-Utilizes Spotify API to query a random selection of songs from the user's chosen genre
+Utilizes (Spotify API)[https://developer.spotify.com/documentation/android/] to query a random selection of songs from the user's chosen genre
 Users have a limited time to guess the name of the song, artist, and album
 Points are awarded differently depending on how many parts are guessed correctly (only song name, song name and artist but not album, etc.)
 
