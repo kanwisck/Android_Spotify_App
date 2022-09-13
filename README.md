@@ -24,4 +24,4 @@ Compile and run within Android Studio
 
 ## Acknowledgments
 
-Project created for Rob Hess' Mobile Software Development course at Oregon State University in the Winter 2022 term
+Project created for Mobile Software Development course at Oregon State University
